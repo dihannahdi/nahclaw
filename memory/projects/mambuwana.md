@@ -6,14 +6,19 @@
 
 ## 📝 Notes
 
-### 📱 2026-03-18 09:29 - CLI
-Harga Mambuwana: 1 liter = 86.600, 500 ml = 58.800.
+## 💰 Harga Produk Mambuwana
 
-**Project:** #Mambuwana #mambuwana
+| Ukuran | Harga |
+|--------|-------|
+| 1 liter | Rp 86.600 |
+| 500 ml | Rp 58.800 |
 
-**Tags:** #Harga
+**Catatan:**
+- Harga berlaku untuk semua varian
+- Update terakhir: 18 Maret 2026
+- Harga belum termasuk ongkir
 
-**Related:** [[mambuwana]] [[Mambuwana]] [[2026-03-18|Today]]
+**Tags:** #harga #produk #mambuwana #pricing
 
 ---
 
