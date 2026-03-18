@@ -70,6 +70,17 @@ Test connection untuk graph view di Obsidian.
 **Tags:** #track #memory #projects
 **Related:** [[Optima]] [[2026-03-18|Today]]
 
+### 📱 2026-03-18 09:28 - CLI
+Udah bikinin 3 konten gambar untuk materi meta ads cpas di project optima.
+
+**Project:** #Optima #optima
+
+**Tags:** #Udah #project #Ads #Meta
+
+**Related:** [[optima]] [[Optima]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
+
+---
+
 ---
 
 ---
