@@ -30,6 +30,19 @@ Test connection untuk graph view di Obsidian.
 
 **Related:** [[Optima]]
 
+### 📱 2026-03-18 07:38 - CLI
+Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana done.
+
+**Project:** #Mambuwana #Optima #optima
+
+**Status:** #done #laporan
+
+**Tags:** #setting #Meta #Ads
+
+**Related:** [[optima]] [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
+
+---
+
 ---
 
 ---
