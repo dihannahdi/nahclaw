@@ -30,91 +30,45 @@ Test connection untuk graph view di Obsidian.
 
 **Related:** [[Optima]]
 
-### 📱 2026-03-18 07:38 - CLI
-Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana done.
+### 📱 2026-03-18 07:40 - Telegram
+1. Setting akun CPAS Meta Ads untuk Mambuwana done.
 
-**Project:** #Mambuwana #Optima #optima
-
+**Project:** #Optima #Mambuwana
 **Status:** #done #laporan
-
 **Tags:** #setting #Meta #Ads
-
-**Related:** [[optima]] [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
-
-### 📱 2026-03-18 07:39 - Telegram
-Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana done.
-
-**Project:** #Optima #optima #Mambuwana
-
-**Status:** #laporan #done
-
-**Tags:** #Ads #setting #Meta
-
-**Related:** [[optima]] [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
-
-### 📱 2026-03-18 07:39 - Telegram
-Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana done.
-
-**Project:** #Mambuwana #optima #Optima
-
-**Status:** #laporan #done
-
-**Tags:** #setting #Ads #Meta
-
-**Related:** [[optima]] [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
+**Related:** [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
 
 ### 📱 2026-03-18 07:40 - Telegram
 2. Pengisian formulir untuk approval akses katalog shopee agar bisa diakses di facebook done.
 
-**Project:** #optima
-
+**Project:** #Optima
 **Status:** #done
-
-**Tags:** #approval #Shopee #Pengisian #Facebook
-
+**Tags:** #approval #Facebook #Shopee #catalog
 **Related:** [[Optima]] [[Facebook]] [[Shopee]] [[Approval]] [[2026-03-18|Today]]
 
 ### 📱 2026-03-18 07:40 - Telegram
 3. Semalem aku habis checkout centang biru untuk Mambuwana.
 
-**Project:** #Mambuwana #optima
-
-**Tags:** #biru #checkout #centang #Semalem
-
-**Related:** [[Optima]] [[Mambuwana]] [[Checkout]] [[Centang]] [[Biru]] [[2026-03-18|Today]]
+**Project:** #Optima #Mambuwana
+**Status:** #done #checkout
+**Tags:** #centang #biru #trust
+**Related:** [[Optima]] [[Mambuwana]] [[2026-03-18|Today]]
 
 ### 📱 2026-03-18 07:40 - Telegram
 4. Barusan juga sudah done untuk membuat halaman facebook untuk Mambuwana.
 
-**Project:** #Mambuwana #optima
-
+**Project:** #Optima #Mambuwana
 **Status:** #done
-
-**Tags:** #Barusan #halaman #Facebook
-
-**Related:** [[Optima]] [[Mambuwana]] [[Facebook]] [[Halaman]] [[2026-03-18|Today]]
+**Tags:** #halaman #Facebook #page
+**Related:** [[Optima]] [[Mambuwana]] [[Facebook]] [[2026-03-18|Today]]
 
 ### 📱 2026-03-18 07:40 - Telegram
 5. Semua progress sudah di-track di memory/projects/optima.md.
 
-**Project:** #optima #Optima
-
-**Status:** #progress
-
-**Tags:** #Semua #project
-
-**Related:** [[optima]] [[Optima]] [[2026-03-18|Today]]
-
-### 📱 2026-03-18 07:40 - Telegram
-Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana done.
-
-**Project:** #Optima #Mambuwana #optima
-
-**Status:** #done #laporan
-
-**Tags:** #setting #Ads #Meta
-
-**Related:** [[optima]] [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
+**Project:** #Optima
+**Status:** #done #progress
+**Tags:** #track #memory #projects
+**Related:** [[Optima]] [[2026-03-18|Today]]
 
 ---
 
