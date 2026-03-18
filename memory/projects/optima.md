@@ -83,6 +83,19 @@ Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana
 
 **Related:** [[Optima]] [[Mambuwana]] [[Checkout]] [[Centang]] [[Biru]] [[2026-03-18|Today]]
 
+### 📱 2026-03-18 07:40 - Telegram
+4. Barusan juga sudah done untuk membuat halaman facebook untuk Mambuwana.
+
+**Project:** #Mambuwana #optima
+
+**Status:** #done
+
+**Tags:** #Barusan #halaman #Facebook
+
+**Related:** [[Optima]] [[Mambuwana]] [[Facebook]] [[Halaman]] [[2026-03-18|Today]]
+
+---
+
 ---
 
 ---
