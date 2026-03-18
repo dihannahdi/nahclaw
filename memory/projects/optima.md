@@ -63,6 +63,19 @@ Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana
 
 **Related:** [[optima]] [[Optima]] [[Mambuwana]] [[Meta]] [[Ads]] [[2026-03-18|Today]]
 
+### 📱 2026-03-18 07:40 - Telegram
+2. Pengisian formulir untuk approval akses katalog shopee agar bisa diakses di facebook done.
+
+**Project:** #optima
+
+**Status:** #done
+
+**Tags:** #approval #Shopee #Pengisian #Facebook
+
+**Related:** [[Optima]] [[Facebook]] [[Shopee]] [[Approval]] [[2026-03-18|Today]]
+
+---
+
 ---
 
 ---
