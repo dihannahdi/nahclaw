@@ -13,6 +13,15 @@ Agenda KKN hari ini: pengarahan dan pembagian kelompok.
 
 **Related:** [[kkn]] [[Kkn]] [[KKN]]
 
+### 📱 2026-03-18 07:35 - CLI
+Test connection untuk graph view di Obsidian.
+
+**Tags:** #Test #Obsidian #kkn
+
+**Related:** [[Kkn]]
+
+---
+
 ---
 
 ---
