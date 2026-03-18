@@ -17,9 +17,9 @@
 - **Location**: `/usr/lib/node_modules/openclaw/skills/trello/SKILL.md`
 - **Status**: Configured and authenticated
 - **Credentials**:
-  - API Key: `8727af85864e5522306ba3c902f9bf90`
-  - Token: `ATTAa5d9a3da231ec03a1814b912e42df109b5ea7c54df1ffa626ff4eeb0e4502f575EB7EA3B`
-  - Secret: `039766c498d9d5a2ab3bd1bcb0296afd7c75dc5bcafd4ad5d1863a0f10504db2`
+  - API Key: `[REDACTED]`
+  - Token: `[REDACTED]`
+  - Secret: `[REDACTED]`
 - **Boards Available**:
   1. **Biotech AI** (id: `693a542fdbff84f74685a375`) - https://trello.com/b/xXH4u9W4/biotech-ai
   2. **Bismillah 1 M Sponsor Berkisah 2026** (id: `69a1ac7f11b8c7b9e630ba26`) - https://trello.com/b/SINu76yJ/bismillah-1-m-sponsor-berkisah-2026
