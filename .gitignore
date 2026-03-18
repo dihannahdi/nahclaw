@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Turath SDK cache
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OpenClaw runtime files
+sessions/
+processes/
+*.pid
+*.lock
+
+# Large data files
+*.json
+*.csv
+*.db
+*.sqlite
+
+# Script output files
+turath-detailed-results.json
+shamela-known-ids.json
+turath-book-finder.js
+shamela-book-finder.js
+test-turath.js
+
+# Sensitive files (API keys, credentials)
+*.env
+*.key
+*.pem
+*.crt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# Exclude all files except specific workspace configs
+!AGENTS.md
+!SOUL.md
+!TOOLS.md
+!IDENTITY.md
+!USER.md
+!HEARTBEAT.md
+!MEMORY.md
+!memory/
+!skills/
+!.gitignore
+!README.md
