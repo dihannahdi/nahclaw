@@ -13,6 +13,18 @@ Jobdesc yang sudah selesai: 1. Setup ads, 2. Analytics.
 
 **Related:** [[Optima]]
 
+### 📱 2026-03-18 07:24 - Telegram
+Di Optima, aku mau laporan 5 poin: 1. setting akun CPAS Meta Ads untuk Mambuwana done
+2. Pengisian formulir untuk approval akses katalog shopee agar bisa diakses di facebook done, kirim email juga done, biasanya menunggu hari kerja untuk approval sekitar 1-14 hari, Mas. bukti foto terlampir.
+3. Semalem aku habis checkout centang biru untuk Mambuwana, untuk ngeboost trust ke akun Mambuwana;
+4. Barusan juga sudah done untuk membuat halaman facebook untuk Mambuwana, https://web.facebook.com/people/Mambuwana-Trash-Vlogger/61580808014672/.
+
+**Tags:** #Meta #Optima #kerja #optima #Ads
+
+**Related:** [[optima]] [[Optima]] [[Optima]]
+
+---
+
 ---
 
 ---
