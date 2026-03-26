@@ -9,6 +9,19 @@
 
 ## 📝 Notes
 
+### 📱 2026-03-26 10:06 - Jarvis
+Reminder: Cetak master produk Milfar:
+1. Trico
+2. Asam humat
+3. Insektisida
+4. Asam amino
+
+**Tags:** #Milfar #produk #cetak #master #inventory
+
+**Related:** [[2026-03-26|Today]]
+
+---
+
 ### 📱 2026-03-26 09:41 - Jarvis
 Buat todos untuk Milfar: 1. ganti alamat pengiriman ke solo, 2. pengaktifan diskon.
 
@@ -20,14 +33,23 @@ Buat todos untuk Milfar: 1. ganti alamat pengiriman ke solo, 2. pengaktifan disk
 
 ## ✅ Tasks
 
-### 1. Ganti Alamat Pengiriman ke Solo
+### 1. Cetak Master Produk
+- [ ] Trico - siapkan file master
+- [ ] Asam humat - siapkan file master
+- [ ] Insektisida - siapkan file master
+- [ ] Asam amino - siapkan file master
+- [ ] Verifikasi spesifikasi produk
+- [ ] Cek stok bahan baku
+- [ ] Update database inventory
+
+### 2. Ganti Alamat Pengiriman ke Solo
 - [ ] Konfirmasi alamat lengkap di Solo
 - [ ] Update alamat di sistem Milfar
 - [ ] Informasikan ke tim logistik
 - [ ] Update template email/pesan untuk pelanggan
 - [ ] Verifikasi zona pengiriman dan biaya
 
-### 2. Pengaktifan Diskon
+### 3. Pengaktifan Diskon
 - [ ] Tentukan jenis diskon (persentase/nominal)
 - [ ] Tentukan periode berlaku diskon
 - [ ] Buat kode promo jika diperlukan
