@@ -39,6 +39,23 @@
 - **Location**: `~/.openclaw/workspace/skills/whatsapp-undone/SKILL.md`
 - **Status**: Available
 
+### Bahtsul Masail
+- **Skill**: `bahtsulmasail` - Islamic Q&A via bahtsulmasail.tech API
+- **Location**: `/root/.openclaw/workspace/nahclaw/skills/bahtsulmasail/SKILL.md`
+- **Status**: Available
+- **API Key**: `bm_29b2bae43d194501ade693333863a996`
+- **Features**:
+  - Auto-detect Islamic topics
+  - Fast path (<1s) for simple queries
+  - AI synthesis with 8s timeout
+  - Includes kitab references and **Ibaroh (teks Arab lengkap)**
+  - Arabic terms translation
+
+### Context7
+- **Skill**: `context7` - Tech skills learning and automation
+- **Location**: `/root/.openclaw/workspace/nahclaw/skills/context7/SKILL.md`
+- **Status**: Available
+
 ### Weather
 - **Skill**: `weather` - Weather forecasts via wttr.in
 - **Location**: `/usr/lib/node_modules/openclaw/skills/weather/SKILL.md`
