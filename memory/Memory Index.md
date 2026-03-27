@@ -38,6 +38,7 @@
 
 ## 🔗 Related Files
 - [[Projects]] - Detailed projects index
+- [[Obsidian Git Plugin Guide]] - Panduan konfigurasi Git plugin
 - [[AGENTS.md]] - Agent configuration
 - [[MEMORY.md]] - Main memory file
 - [[SOUL.md]] - Personality configuration

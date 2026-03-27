@@ -1,0 +1,167 @@
+# Obsidian Git Plugin Guide
+
+## 📋 Overview
+Panduan lengkap untuk mengkonfigurasi dan menggunakan Obsidian Git plugin untuk sync otomatis dengan GitHub.
+
+---
+
+## 🚀 **Mengapa Notes Belum Muncul di Obsidian Anda?**
+
+### **Penyebab Utama:**
+1. **Plugin Belum Aktif** - Obsidian Git plugin belum diaktifkan di settings
+2. **Auto-Pull Belum Diatur** - Plugin tidak otomatis pull dari GitHub
+3. **Status Bar Tidak Muncul** - UI plugin tidak ditampilkan
+4. **Sync Interval Tidak Aktif** - Tidak ada jadwal sync otomatis
+
+---
+
+## 🔧 **Langkah-langkah Konfigurasi**
+
+### **1. Aktifkan Obsidian Git Plugin**
+1. Buka Obsidian
+2. Buka **Settings** (kiri bawah)
+3. Pilih **Community plugins**
+4. Cari **"Obsidian Git"** di daftar
+5. **Enable** plugin tersebut
+
+### **2. Konfigurasi Settings Plugin**
+Setelah plugin aktif, buka **Plugin Options** → **Obsidian Git**:
+
+#### **A. Basic Settings:**
+- ✅ **Auto pull on boot:** `true` (otomatis pull saat buka Obsidian)
+- ✅ **Auto save interval:** `5` menit (otomatis commit setiap 5 menit)
+- ✅ **Auto backup after file change:** `true`
+- ✅ **Show status bar:** `true` (muncul di kanan bawah)
+
+#### **B. Sync Settings:**
+- **Sync method:** `merge` (rekomendasi)
+- **Pull before push:** `true`
+- **Disable push:** `false`
+- **Different interval commit and push:** `true`
+- **Auto push interval:** `10` menit
+
+#### **C. UI Settings:**
+- ✅ **Refresh source control:** `true`
+- ✅ **Tree structure:** `true`
+- ✅ **Show branch status bar:** `true`
+- ✅ **Show file menu:** `true`
+- ✅ **Changed files in status bar:** `true`
+
+### **3. Manual Pull Pertama**
+1. Buka **Command Palette** (`Ctrl+P` atau `Cmd+P`)
+2. Ketik: **"Obsidian Git: Pull"**
+3. Tekan Enter
+4. Cek apakah file muncul
+
+---
+
+## 🎯 **Cara Membuat Submenu di Kanan Muncul**
+
+### **Status Bar (Kan Bawah):**
+Untuk membuat status bar muncul di kanan bawah:
+1. **Settings** → **Obsidian Git** → **Show status bar:** `true`
+2. **Changed files in status bar:** `true`
+3. **Show branch status bar:** `true`
+
+### **Source Control View (Kan Kanan):**
+1. Buka **Command Palette**
+2. Ketik: **"Obsidian Git: Open source control view"**
+3. Atau klik icon Git di ribbon kiri
+
+### **File Menu (Klik Kanan):**
+1. **Settings** → **Obsidian Git** → **Show file menu:** `true`
+2. Sekarang klik kanan file → ada menu Git
+
+---
+
+## ⚙️ **Advanced Configuration**
+
+### **Auto Sync Schedule:**
+```typescript
+// Contoh konfigurasi auto sync:
+autoSaveInterval: 5,        // Commit otomatis setiap 5 menit
+autoPushInterval: 10,       // Push otomatis setiap 10 menit
+autoPullInterval: 15,       // Pull otomatis setiap 15 menit
+autoPullOnBoot: true        // Pull saat buka Obsidian
+```
+
+### **Conflict Resolution:**
+- **Sync method:** `merge` (default, aman)
+- **Sync method:** `rebase` (lebih clean history)
+- **Sync method:** `reset` (force sync, hati-hati)
+
+---
+
+## 🔍 **Troubleshooting**
+
+### **Problem: Notes tidak muncul**
+**Solusi:**
+1. Buka Command Palette → **"Obsidian Git: Pull"**
+2. Cek apakah ada error di console (F12 → Console)
+3. Restart Obsidian
+
+### **Problem: Status bar tidak muncul**
+**Solusi:**
+1. Settings → Obsidian Git → **Show status bar:** `true`
+2. Restart Obsidian
+3. Cek apakah plugin benar-benar aktif
+
+### **Problem: Auto pull tidak bekerja**
+**Solusi:**
+1. Settings → **Auto pull on boot:** `true`
+2. Settings → **Refresh source control:** `true`
+3. Settings → **Refresh source control timer:** `7000` ms
+
+### **Problem: Conflict merge**
+**Solusi:**
+1. Backup vault dulu
+2. Settings → **Sync method:** `merge` (bukan `reset`)
+3. Manual pull dulu sebelum push
+
+---
+
+## 📊 **Checklist Konfigurasi**
+- [ ] Plugin Obsidian Git diaktifkan
+- [ ] **Auto pull on boot:** `true`
+- [ ] **Show status bar:** `true`
+- [ ] **Changed files in status bar:** `true`
+- [ ] **Auto save interval:** `5` menit
+- [ ] **Pull before push:** `true`
+- [ ] **Refresh source control:** `true`
+- [ ] **Tree structure:** `true`
+- [ ] **Show branch status bar:** `true`
+- [ ] **Show file menu:** `true`
+
+---
+
+## 🎮 **Shortcuts & Commands**
+| Command | Shortcut | Description |
+|---------|----------|-------------|
+| **Pull** | - | Obsidian Git: Pull |
+| **Push** | - | Obsidian Git: Push |
+| **Commit** | - | Obsidian Git: Commit |
+| **Sync** | `Ctrl+P` → "sync" | Obsidian Git: Commit and sync |
+| **Source Control** | - | Obsidian Git: Open source control view |
+| **View History** | - | Obsidian Git: View history |
+
+---
+
+## 🔗 **Links**
+- [[Memory Index]] - Semua notes
+- [[Projects]] - Semua project
+- [[2026-03-27]] - Notes hari ini
+- [GitHub Repo](https://github.com/dihannahdi/nahclaw) - Repository
+
+---
+
+## 📝 **Catatan Teknis**
+- **Repository:** `https://github.com/dihannahdi/nahclaw.git`
+- **Branch:** `main`
+- **Last Sync:** 2026-03-27 11:52
+- **Commit:** `88723c6`
+- **Total Files:** 21 file .md
+
+**Status saat ini:** ✅ **Semua file sudah di-sync ke GitHub dan siap di-pull.**
+
+---
+*Generated by Jarvis AI Assistant*
