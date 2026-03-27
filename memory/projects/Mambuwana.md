@@ -14,10 +14,21 @@ Jobdesc: Menambahkan 1 iklan lagi untuk Mambuwana di Facebook Ads. Status: Belum
 
 **Related:** [[2026-03-27|Today]] [[Facebook]]
 
+### 📱 2026-03-27 11:01 - Telegram
+Jobdesc tambahan untuk Mambuwana:
+1. Revisi website untuk menambahkan testimoni WhatsApp, foto COD, dan foto kegiatan di halaman produk.
+2. Update Shopee product agar punya sistem diskon awal, diskon toko 10%, dan gratis ongkir.
+
+**Tags:** #Mambuwana #Website #Shopee #Revisi #Update #Testimoni #COD #Diskon #GratisOngkir
+
+**Related:** [[2026-03-27|Today]] [[Shopee]] [[Website]]
+
 ---
 
 ## ✅ Tasks
 - [ ] Menambahkan 1 iklan lagi untuk Mambuwana di Facebook Ads
+- [ ] Revisi website: tambah testimoni WhatsApp, foto COD, dan foto kegiatan di halaman produk
+- [ ] Update Shopee product: sistem diskon awal, diskon toko 10%, dan gratis ongkir
 
 ---
 
