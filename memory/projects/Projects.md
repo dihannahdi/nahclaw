@@ -15,9 +15,10 @@
 
 ### [[Optima]]
 - **Status:** Active
-- **Tags:** #Optima #Mambuwana #Facebook #Shopee #Meta #brief #creativa #Optyma #products #digital-marketing
+- **Tags:** #Optima #Mambuwana #Facebook #Shopee #Meta #brief #creativa #Optyma #products #digital-marketing #sales #recruitment
 - **Last update:** 2026-04-01
-- **Description:** Project Optima. Jobdesc: buat brief untuk creativa dari Optyma products.
+- **Description:** Project Optima. Jobdesc: buat brief untuk creativa dari Optyma products & draft pertanyaan wawancara calon sales.
+- **Related:** [[Optima-Sales-Interview]]
 
 ### [[KKN]]
 - **Status:** Active

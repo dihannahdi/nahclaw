@@ -41,6 +41,12 @@ Jobdesc untuk Optima: Buat brief untuk creativa dari Optyma products.
 - [ ] Finalisasi dan distribusi brief ke tim creativa
 - [ ] Jadwalkan briefing meeting dengan tim creativa
 
+### 2. Draft Pertanyaan untuk Calon Sales Optyma
+- [x] Buat template wawancara untuk calon sales
+- [ ] Review dengan tim HR/management
+- [ ] Finalisasi pertanyaan wawancara
+- [ ] Siapkan scoring system untuk evaluasi kandidat
+
 ### 2. Koordinasi dengan Tim Creativa
 - [ ] Jadwalkan kick-off meeting
 - [ ] Presentasikan brief dan konteks produk
