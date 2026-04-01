@@ -48,6 +48,7 @@ Buat todos untuk Milfar: 1. ganti alamat pengiriman ke solo, 2. pengaktifan disk
 - [ ] Informasikan ke tim logistik
 - [ ] Update template email/pesan untuk pelanggan
 - [ ] Verifikasi zona pengiriman dan biaya
+- [ ] Revisi alamat di semua dokumen dan platform Milfar
 
 ### 3. Pengaktifan Diskon
 - [ ] Tentukan jenis diskon (persentase/nominal)
@@ -57,6 +58,15 @@ Buat todos untuk Milfar: 1. ganti alamat pengiriman ke solo, 2. pengaktifan disk
 - [ ] Buat materi promosi (social media, email)
 - [ ] Informasikan ke tim sales/customer service
 - [ ] Monitor efektivitas diskon
+
+### 4. Hitung Estimasi Harga Project Web Milfar
+- [ ] Analisis kebutuhan website Milfar
+- [ ] Breakdown komponen website (frontend, backend, database, etc.)
+- [ ] Hitung estimasi waktu pengerjaan per komponen
+- [ ] Tentukan rate per jam/komponen
+- [ ] Buat proposal harga lengkap
+- [ ] Siapkan alternatif paket (basic, standard, premium)
+- [ ] Buat timeline pengerjaan
 
 ---
 

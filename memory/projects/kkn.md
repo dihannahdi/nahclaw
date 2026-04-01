@@ -42,6 +42,7 @@ Update jadwal pengarahan KKN: kemajuan 1 jam (07:00 → 08:00, 15:00 → 16:00).
 - [ ] Hadir pengarahan KKN hari 1 (14 Maret 08:00)
 - [ ] Hadir pengarahan KKN hari 2 (15 Maret 08:00)
 - [ ] Submit keterangan magang ke SIMASTER (12 Maret 08:00)
+- [ ] Revisi proposal kesehatan untuk KKN
 
 ---
 
