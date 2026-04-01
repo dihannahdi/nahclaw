@@ -9,9 +9,9 @@
 
 ### [[Milfar]]
 - **Status:** Active
-- **Tags:** #Milfar #produk #master #cetak #trico #asam-humat #insektisida #asam-amino
-- **Last update:** 2026-03-26
-- **Description:** Produk master untuk dicetak.
+- **Tags:** #Milfar #produk #master #cetak #trico #asam-humat #insektisida #asam-amino #harga #paket #pelatihan #bundling #lifetime
+- **Last update:** 2026-04-01
+- **Description:** Update nama dan paket pelatihan Milfar dengan harga baru (ribu/lifetime): Cabai 99, Tomat 49, Terong 49, Kangkung 29, Sawi 29, Bayam 29. Plus 2 paket bundling.
 
 ### [[Optima]]
 - **Status:** Active
@@ -31,6 +31,12 @@
 - **Last update:** 2026-03-18
 - **Description:** Project CBI.
 
+### [[DokterTani Migration]]
+- **Status:** Active
+- **Tags:** #doktertani #migration #website #marketplace #sku #assets #ecommerce
+- **Last update:** 2026-04-01
+- **Description:** Migrasi aset dari marketplace DokterTani ke website secara end-to-end.
+
 ## ✅ Completed Projects
 ### [[optima-ads-mambuwana-done]]
 - **Status:** Completed ✅
@@ -43,6 +49,13 @@
 - **Tags:** #done #shopee #facebook #approval
 - **Completion date:** 2026-03-18
 - **Description:** Approval Shopee dan Facebook sudah selesai.
+
+## 🎯 Personal Projects
+### [[Personal Projects]]
+- **Status:** Active
+- **Tags:** #personal #openclaw #kitab #scan #article
+- **Last update:** 2026-04-01
+- **Description:** Proyek pribadi di luar pekerjaan utama: artikel OpenClaw dan scanning kitab Jam'ul 'Abir.
 
 ## 📊 Project Relationships
 **Mambuwana ↔ Optima:** Mambuwana menggunakan platform Optima untuk iklan.
@@ -70,6 +83,7 @@
 | [[Optima]] | Active | Medium | - | - |
 | [[KKN]] | Active | High | Pengarahan KKN | 14-15 Maret 2026 |
 | [[CBI]] | Active | Low | - | - |
+| [[DokterTani Migration]] | Active | High | Audit aset marketplace | TBD |
 
 ## 🔗 Cross-references
 - [[Memory Index]] - All memory files
