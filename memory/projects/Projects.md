@@ -15,9 +15,9 @@
 
 ### [[Optima]]
 - **Status:** Active
-- **Tags:** #Optima #Mambuwana #Facebook #Shopee #Meta
-- **Last update:** 2026-03-18
-- **Description:** Project Optima.
+- **Tags:** #Optima #Mambuwana #Facebook #Shopee #Meta #brief #creativa #Optyma #products #digital-marketing
+- **Last update:** 2026-04-01
+- **Description:** Project Optima. Jobdesc: buat brief untuk creativa dari Optyma products.
 
 ### [[KKN]]
 - **Status:** Active
@@ -80,7 +80,7 @@
 |---------|--------|----------|-------------|----------|
 | [[Mambuwana]] | Active | High | Revisi website & update Shopee | - |
 | [[Milfar]] | Active | High | Revisi alamat & estimasi web | 26 Maret 2026 |
-| [[Optima]] | Active | Medium | - | - |
+| [[Optima]] | Active | Medium | Buat brief creativa Optyma products | - |
 | [[KKN]] | Active | High | Revisi proposal kesehatan | 14-15 Maret 2026 |
 | [[CBI]] | Active | High | Revisi web monitoring & AI dashboard | - |
 | [[DokterTani Migration]] | Active | High | Audit aset marketplace | TBD |
